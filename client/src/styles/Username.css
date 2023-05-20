@@ -1,0 +1,7 @@
+body{
+    background-image: url('../assets/3.jpg');
+}
+
+input[type="file"]{
+    display: none;;
+}
